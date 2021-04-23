@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+
+    <string name="txt_codigo">Codigo producto</string>
+    <string name="txt_descripcion">Descripcion producto</string>
+    <string name="txt_precio">Precio del producto</string>
+
+
+    <string name="button_registrar">Registrar producto</string>
+    <string name="button_buscar">Buscar producto</string>
+    <string name="button_eliminar">Eliminar producto</string>
+    <string name="button_modificar">Modificar producto</string>
+
+</resources>
